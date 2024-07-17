@@ -3,7 +3,7 @@ function doubleValues(arr){
     arr.forEach(function(val){
         newArr.push(val*2);
     })
-    return newArr;
+    return newArr
 }
 
 function onlyEvenValues(arr){
